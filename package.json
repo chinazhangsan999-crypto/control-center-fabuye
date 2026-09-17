@@ -1,0 +1,21 @@
+{
+  "name": "link-status-page",
+  "version": "0.0.38",
+  "description": "小星星爱导航 npm 完整永久发布页",
+  "private": false,
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinazhangsan999-crypto/control-center-fabuye.git"
+  },
+  "files": [
+    "index.html",
+    "404.html",
+    "publish-manifest.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}
