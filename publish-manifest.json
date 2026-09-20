@@ -1,27 +1,31 @@
 {
   "format": "webring-publish-page-v1",
   "site": "小星星爱导航",
-  "generated_at": "2026-09-20T12:51:23.770Z",
-  "sha256": "a8247a21e4585db6b9cd642ec23555400de03233eb6d114996ae4688c0ff5c51",
+  "generated_at": "2026-09-20T14:27:51.130Z",
+  "sha256": "087a143dbaa96a1f74ae1b11b9752e8ac364d42fa8e3b19a0001c285b25f8069",
   "addresses": {
     "permanent": "https://yongjiufabuye.chinazhangsan.ccwu.cc/",
     "github_pages": "https://chinazhangsan999-crypto.github.io/control-center-fabuye",
-    "npm_cdn": "https://cdn.jsdelivr.net/npm/link-status-page@latest/index.html",
+    "npm_cdn": "https://unpkg.com/link-status-page@latest/index.html",
     "npm_cdns": [
       {
         "provider": "npmmirror",
+        "role": "package",
         "url": "https://registry.npmmirror.com/link-status-page/latest/files/index.html"
       },
       {
         "provider": "jsdelivr",
+        "role": "package",
         "url": "https://cdn.jsdelivr.net/npm/link-status-page@latest/index.html"
       },
       {
         "provider": "unpkg",
+        "role": "page",
         "url": "https://unpkg.com/link-status-page@latest/index.html"
       },
       {
         "provider": "esm",
+        "role": "page",
         "url": "https://esm.sh/link-status-page@latest/index.html"
       }
     ]
