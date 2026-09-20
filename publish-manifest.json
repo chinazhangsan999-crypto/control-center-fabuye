@@ -1,11 +1,21 @@
 {
   "format": "webring-publish-page-v1",
   "site": "小星星爱导航",
-  "generated_at": "2026-09-18T00:26:56.561Z",
-  "sha256": "04341819117a6b2a5b3e2704e644f9cb6aff2f48077676092ded43a22cf6361a",
+  "generated_at": "2026-09-20T11:46:46.853Z",
+  "sha256": "a8ae7a6105e62ae0cd2ba97565292bf2655c535c76de28e49e439d5260b97d29",
   "addresses": {
     "permanent": "https://yongjiufabuye.chinazhangsan.ccwu.cc/",
     "github_pages": "https://chinazhangsan999-crypto.github.io/control-center-fabuye",
-    "npm_cdn": "https://unpkg.com/link-status-page@latest/index.html"
+    "npm_cdn": "https://cdn.jsdelivr.net/npm/link-status-page@latest/index.html",
+    "npm_cdns": [
+      {
+        "provider": "jsdelivr",
+        "url": "https://cdn.jsdelivr.net/npm/link-status-page@latest/index.html"
+      },
+      {
+        "provider": "unpkg",
+        "url": "https://unpkg.com/link-status-page@latest/index.html"
+      }
+    ]
   }
 }
